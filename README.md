@@ -1,6 +1,8 @@
 # Spotify Top Hits Analysis (1990-2020)
 
-This repository contains the code, documentation, and resources for the **Spotify Top Hits Analysis Project**, which explores trends, insights, and recommendations based on the most popular songs from 1990 to 2020. Using **Power BI** and **Tableau**, the project visualizes data to uncover key patterns in music popularity and provides actionable recommendations for stakeholders in the music industry.
+This repository contains the code, documentation, and resources for the **Spotify Top Hits Analysis Project**, which explores trends, insights, and recommendations based on the most popular songs from 1990 to 2020. Using **Power BI** and **Tableau**, the project visualizes data to uncover key patterns in music popularity and provides actionable recommendations for stakeholders in the music industry.  
+
+By creating this dashboard, we are essentially building an **encyclopedia for artists—newcomers or veterans—to reference song trends**, understand shifting audience preferences, and identify the factors driving popularity over the years. This project offers valuable insights into what makes a song successful, empowering artists to make data-driven decisions in their creative and marketing strategies.
 
 ---
 
