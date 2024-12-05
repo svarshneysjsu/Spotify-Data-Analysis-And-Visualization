@@ -62,9 +62,13 @@ The project follows a structured workflow for streamlined analysis.
     - Enabled interactive filtering by artist, genre, and year for detailed exploration.
    
   <img width="835" alt="image" src="https://github.com/user-attachments/assets/ed6cae6e-28cc-4b6a-a247-ba84d10534b2">
+
+  
   - **Tableau:**  
     - Focused on regional streaming trends through geospatial analysis.  
-    - Highlighted genre evolution and regional preferences using dynamic visuals.  
+    - Highlighted genre evolution and regional preferences using dynamic visuals.
+   
+    
 <img width="1416" alt="image" src="https://github.com/user-attachments/assets/4714796c-524f-46a3-ae25-cd45e758c09e">
 
 
