@@ -41,6 +41,8 @@ The project follows a structured workflow for streamlined analysis.
 
 ## Dataset
 - **Source:** [Kaggle - Spotify Top Hits Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019))
+- **Dataset Link**
+  - https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019
 - **Details:**  
   - Metadata: Track title, artist name, release year.  
   - Audio Features: Danceability, energy, loudness, tempo, duration, etc.  
